@@ -221,4 +221,10 @@ li {
         height: 15%;
     }
 
+    .notification-img {
+        width: 11%;
+        height: 11%;
+        margin-left: auto;
+        cursor: pointer;
+    }
 }
