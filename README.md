@@ -4,7 +4,7 @@ This is a solution to the [Notifications page challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://merry-unicorn-bff0ae.netlify.app/
 
 ### Screenshot
 
